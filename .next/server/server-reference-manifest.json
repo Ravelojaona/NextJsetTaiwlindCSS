@@ -1,0 +1,14 @@
+{
+  "node": {
+    "b0336dbe6686e588830d6233ca9b0b59991066e0": {
+      "workers": {
+        "app/(dashboard)/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fkevine%2FReactJsZifeo%2Fto-do-list-app%2Fapp%2F(dashboard)%2Flayout.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(dashboard)/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "O0zaRdbYGlQCMUGYQUobIRXfJsoNlJNzcOysb3tgF/E="
+}
